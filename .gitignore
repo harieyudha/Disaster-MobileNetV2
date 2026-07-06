@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+*.h5
+*.keras
+*.pkl
+dataset/train/
+dataset/validation/
+dataset/test/
+results/
+.DS_Store
+Thumbs.db
+*.log
