@@ -1,0 +1,19 @@
+{
+  "model": "MobileNetV2 (Transfer Learning)",
+  "dataset": "Comprehensive Disaster Dataset (CDD)",
+  "num_classes": 6,
+  "classes": [
+    "Damaged_Infrastructure",
+    "Fire_Disaster",
+    "Human_Damage",
+    "Land_Disaster",
+    "Non_Damage",
+    "Water_Disaster"
+  ],
+  "image_size": "224x224",
+  "batch_size": 32,
+  "optimizer": "Adam",
+  "loss": "categorical_crossentropy",
+  "augmentation": true,
+  "fine_tuning": true
+}

@@ -1,0 +1,12 @@
+                        precision    recall  f1-score   support
+
+Damaged_Infrastructure     0.7519    0.9269    0.8303       219
+         Fire_Disaster     0.9769    0.9007    0.9373       141
+          Human_Damage     0.9355    0.7838    0.8529        37
+         Land_Disaster     0.7763    0.5900    0.6705       100
+            Non_Damage     0.9935    0.9942    0.9939      1387
+        Water_Disaster     0.8759    0.8141    0.8439       156
+
+              accuracy                         0.9431      2040
+             macro avg     0.8850    0.8350    0.8548      2040
+          weighted avg     0.9457    0.9431    0.9425      2040

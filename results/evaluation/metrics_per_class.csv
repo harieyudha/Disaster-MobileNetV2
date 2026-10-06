@@ -1,0 +1,7 @@
+Kelas,Support,Precision,Recall,F1-Score,AUC
+Damaged_Infrastructure,219,0.7519,0.9269,0.8303,0.991
+Fire_Disaster,141,0.9769,0.9007,0.9373,0.9956
+Human_Damage,37,0.9355,0.7838,0.8529,0.9978
+Land_Disaster,100,0.7763,0.59,0.6705,0.9819
+Non_Damage,1387,0.9935,0.9942,0.9939,0.9996
+Water_Disaster,156,0.8759,0.8141,0.8439,0.9888
